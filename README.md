@@ -1,8 +1,10 @@
-# 💫 About Me:
-I’m currently studying Artificial Intelligence and Robotics at University
+# 🌱 I’m currently studying:
+[Artificial Intelligence and Robotics](https://corsidilaurea.uniroma1.it/it/corso/2024/30431/home) at Sapienza, University of Rome
 
 
 ## 🌐 Socials:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielesabatini240301@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniele-sabatini-8ba970326)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danielesab01) 
 
 # 💻 Tech Stack:
